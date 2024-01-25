@@ -1,0 +1,59 @@
+table, tr, th, td
+{
+border: 2px solid black;
+border-collapse: collapse;
+}
+th,td
+{
+padding: 10px;
+}
+th
+{
+background-color: rgb(212, 181, 102);
+}
+td
+{
+background-color: lightgoldenrodyellow;
+text-align: center;
+}
+h1
+{
+text-align: left;
+}
+body
+{
+background-color: darkslategray;
+}
+a:link, a:visited
+{
+color: rgb(212, 181, 102);
+background-color: rgb(89, 60, 60);
+text-decoration: none;
+text-align: center;
+padding: 15px;
+display: inline-block;
+border-radius: 15px;
+}
+a:hover, a:active
+{
+color: bisque (255, 157, 77);
+background-color: lightgrey;
+}
+h1
+{
+color: rgb(89, 60, 60);
+background-color: lightgoldenrodyellow;
+font-family: Georgia;
+text-align: center;
+text-size-adjust: 24px;
+}
+p
+{
+text-align: center;
+font-family: Arial;
+text-size-adjust: 16px;
+}
+h2
+{
+text-align: center;
+}
